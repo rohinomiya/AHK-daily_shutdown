@@ -1,16 +1,16 @@
-daily_shutdown.ahk --- –ˆ“úŒˆ‚Ü‚Á‚½ŠÔ‚ÉƒVƒƒƒbƒgƒ_ƒEƒ“
+daily_shutdown.ahk --- æ¯æ—¥æ±ºã¾ã£ãŸæ™‚é–“ã«ã‚·ãƒ£ãƒƒãƒˆãƒ€ã‚¦ãƒ³
 
 Author::    Rohinomiya(Toru Fukuda) <mailto:rohinomiya@gmail.com>
 Copyright:: Copyright (c) 2011 Rohinomiya
 License::   GPL
 Last Change        : 2010/06/29 21:35:28.
 
-g‚¢•û
+ä½¿ã„æ–¹
 
-1.ˆÈ‰º‚ÌƒTƒCƒg‚©‚çuŒu‚ÌŒõv‚Ì.mp3ƒtƒ@ƒCƒ‹‚ğƒ_ƒEƒ“ƒ[ƒh‚·‚é
+1.ä»¥ä¸‹ã®ã‚µã‚¤ãƒˆã‹ã‚‰ã€Œè›ã®å…‰ã€ã®.mp3ãƒ•ã‚¡ã‚¤ãƒ«ã‚’ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰ã™ã‚‹
   http://kya.art-studio.cc/
   http://kya.art-studio.cc/48mp3/PYK00002_48kbps.mp3
 
-2.ƒ_ƒEƒ“ƒ[ƒh‚µ‚½ƒtƒ@ƒCƒ‹‚ğ daily_shutdown.exe ‚Æ“¯‚¶êŠ‚É’u‚­
+2.ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰ã—ãŸãƒ•ã‚¡ã‚¤ãƒ«ã‚’ daily_shutdown.exe ã¨åŒã˜å ´æ‰€ã«ç½®ã
 
-3.daily_shutdown.ini ‚ğƒƒ‚’ ‚ÅŠJ‚«AŠÔ‚É‚È‚Á‚½‚ç–Â‚ç‚µ‚½‚¢ƒtƒ@ƒCƒ‹–¼‚âA‚ğ‘‚¢‚Ä•Û‘¶‚·‚é
+3.daily_shutdown.ini ã‚’ãƒ¡ãƒ¢å¸³ã§é–‹ãã€æ™‚é–“ã«ãªã£ãŸã‚‰é³´ã‚‰ã—ãŸã„ãƒ•ã‚¡ã‚¤ãƒ«åã‚„ã€æ™‚åˆ»ã‚’æ›¸ã„ã¦ä¿å­˜ã™ã‚‹
