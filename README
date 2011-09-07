@@ -1,0 +1,16 @@
+daily_shutdown.ahk --- 毎日決まった時間にシャットダウン
+
+Author::    Rohinomiya(Toru Fukuda) <mailto:rohinomiya@gmail.com>
+Copyright:: Copyright (c) 2011 Rohinomiya
+License::   GPL
+Last Change        : 2010/06/29 21:35:28.
+
+使い方
+
+1.以下のサイトから「蛍の光」の.mp3ファイルをダウンロードする
+  http://kya.art-studio.cc/
+  http://kya.art-studio.cc/48mp3/PYK00002_48kbps.mp3
+
+2.ダウンロードしたファイルを daily_shutdown.exe と同じ場所に置く
+
+3.daily_shutdown.ini をメモ帳で開き、時間になったら鳴らしたいファイル名や、時刻を書いて保存する
